@@ -1,0 +1,1 @@
+![badge](https://www.codewars.com/users/opa-oz/badges/small)
