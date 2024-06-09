@@ -1,0 +1,9 @@
+[tool.black]
+line-length = 120
+
+[tool.pylint.format]
+max-line-length = 120
+
+[tool.isort]
+line-length=120
+line-width=120
